@@ -1,7 +1,8 @@
 
 ## Discovery 2020
 - [zzz](/files/xxx.pdf)
-- [Timeline](/timeline/)
+- [yyy](files/xxx.pdf)
+- [Timeline](/timeline)
 
 
 ## Resources from past Export Projects
