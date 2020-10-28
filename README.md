@@ -2,7 +2,7 @@
 ## Discovery 2020
 - [xxx](/files/xxx.pdf)
 - [yyy](/files/xxx.pdf)
-- [Timeline](/timeline)
+- [Timeline](/timeline.0.1)
 - [Timeline - hard coded - temp](/funding/timeline)
 
 
