@@ -7,7 +7,7 @@
 
 
 ## Resources from past Export Projects
-- [ddd](/files/xxx.pdf)
+- [ddd](files/xxx.pdf)
 
 
 
