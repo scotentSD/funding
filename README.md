@@ -13,12 +13,8 @@
 - [Use Cases](files/xxx.pdf)
 - [Change Log](files/xxx.pdf)
 
-
-
 ## Resources from past Funding Projects
 - [eee](files/xxx.pdf)
-
-
 
 ## Resources
 - [This page](https://scotentsd.github.io/funding/)
