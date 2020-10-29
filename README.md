@@ -1,9 +1,17 @@
 
 ## Discovery 2020 and before
-- [Timeline of Research](timeline/)
-- [xxx](files/xxx.pdf)
-- [yyy](files/xxx.pdf)
+- [Timeline of Discovery Research](timeline/)
 
+- [User Needs TBC](files/xxx.pdf)
+
+## Alpha
+- [Timeline of Alpha Research](timeline/)
+
+- [Service Blueprint v0.1](files/xxx.pdf)
+- [Tube Map v0.1](files/xxx.pdf)
+- [Proto Personas](files/xxx.pdf)
+- [Use Cases](files/xxx.pdf)
+- [Change Log](files/xxx.pdf)
 
 
 
