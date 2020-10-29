@@ -12,7 +12,7 @@
 - [Change Log- TBC](#)
 
 ## Resources from past Funding Projects
-- [eee- TBC](files/xxx.pdf)
+- [eee](files/xxx.pdf)
 
 ## Resources
 - [This page](https://scotentsd.github.io/funding/)
