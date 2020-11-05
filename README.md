@@ -1,7 +1,7 @@
 
 ## Discovery 2020 and before
 - [Timeline of Discovery Research](timeline/)
-- [User Needs - TBC](files/FUND_user_needs_031120.pdf)
+- [User Needs - High Level](files/FUND_user_needs_031120.pdf)
 
 ## Alpha 2020 / 2021
 - [Timeline of Alpha Research](timeline/)
