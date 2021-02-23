@@ -11,27 +11,27 @@ type_of_event:              # add the type of event if you want it displayed add
 return_url: "https://scotentsd.github.io/export/timeline/"
 ---
 
-**Phase**
+## Phase
     Discovery
 
-**Audience**
+## Audience
 - xxx
 
-**We were focusing on**
+## We were focusing on 
 - xxx
 
-**What we discovered**
+## What we discovered
 - xxx
 
 <!--more-->
 
-**Phase**
+## Phase 
     Discovery
 
-**Audience**
+## Audience
 - Funding Project Team, Stakeholders, Product Owner & Customers
 
-**Focus**
+## Focus
 - To test 
 - To establish 
 - To ensure users found the process:
@@ -39,7 +39,7 @@ return_url: "https://scotentsd.github.io/export/timeline/"
    - Easy to understand
    - Clear
 
-**What we discovered**
+## What we discovered 
 
 | Learning
 | ---
@@ -47,7 +47,7 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 | xxx
 | zzz
 
-🧰 **We Changed**  
+🧰 ## We Changed  
 
 | Change
 | ---
