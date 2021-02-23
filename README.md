@@ -1,10 +1,13 @@
 
 ## Discovery 2020 and before
 - [Timeline of Research](timeline/)
+- [Timeline of Research _ Lightweight](timelinelight3/)
 - [User Needs - High Level](files/FUND_user_needs_031120.pdf)
 
 ## Alpha 2020 / 2021
 - [Timeline of Research](timeline/)
+- [Timeline of Research _ Lightweight](timelinelight3/)
+
 - [Service Blueprint v0.1- TBC](#)
 - [Tube Map v0.1- TBC](#)
 - [Proto Personas- TBC](#)
