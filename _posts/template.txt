@@ -55,5 +55,16 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 | xxx
 | zzz
 
+
+## 🎧 Quotesß
+
+| Quote
+| ---
+| “xxx”
+| “xxx”
+| “xxx”
+
+
+
 <!--more-->
 
