@@ -20,36 +20,22 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 
 - To test the Funding Application [wireframe prototype](https://4jd442.axshare.com/)
 - To establish 
-  - If using a Scanned cpy of Passport or Driving License would be acceptable to customers
-  - General usability of the wireframe
+  - Deeper dive on Green Jobs
 
 
 ## What we discovered
 
-| Learning
+| 💡 Learning
 | ---
-| 💡**De Minimis still sucks as a Phrase/Term**
-| De Minimis is not mentioned in the eligibility section, even though it is an “absolute requirement”
-| Customers needs to be told in advance, what information documents & evidence will be “needed to successfully complete the application”, to avoid unpleasant surprises
-| Private documents make people nervous about security and liability
-| Business Plan’s are referenced confusingly (Repeatedly and with/without a template)
-
-## 🎧 Quotes
-
-| Quote
-| ---
-| “I already uploaded a Business Plan and **NOW** you are giving me a template?”
-| “What if I want Email **AND** Phone””
-| “Project Cost is too vague”
-| "It would have been handy to know I needed that before we started"
-
-
-## 🧰 We Changed 
-
-| Change
-| ---
-| 💡**De Minimis descriptive text**
-| Evidence Requirements made more explicit up-front
+| Too verbose
+| Needs more image
+| People really need to know what its for and what the definition of “ a green job” was
+| Give examples of what a green job is
+| Really be super clear about what we are actually funding as a green job project
+| Investment of time vs likelihood of success
+| Information for claims needs to be higher up the page
+| Put the eligibility up front and tell people what is expected of them
+| Examples could inspire
 
 ## Files
 [2021_03_04_Mar_F2F_FUND.pdf](https://scotentsd.github.io/funding/files/2021_03_04_Mar_F2F_FUND.pdf)
