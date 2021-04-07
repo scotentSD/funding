@@ -28,8 +28,6 @@ return_url: "https://scotentsd.github.io/funding/timeline/"
 | Is the language clear/do we use any unfamiliar terms? 
 | Did you notice the postcode checker? If so, was it clear why this was provided?
 
-
-
 ## What we discovered
 
 | 💡 Learning
@@ -40,8 +38,6 @@ return_url: "https://scotentsd.github.io/funding/timeline/"
 | Users need more clarity about what a green job is – some examples would be helpful
 | The postcode checker is clear, but we need to ensure it's clear what to do if you aren't in the Scottish Enterprise area
 
-
-
 ## Recomendations
 
 | Recomendations
@@ -50,8 +46,6 @@ return_url: "https://scotentsd.github.io/funding/timeline/"
 | Move the claims section higher up the page
 | Add some examples of what a green job is
 | Link off to similar services in the HIE/SoSE areas so businesses in those areas don't hit a dead end
-
-
 
 ## Files
 [2021_03_04_PLAYBACK_Green Jobs.pptx](https://scotentsd.github.io/funding/files/2021_03_04_PLAYBACK_Green Jobs.pptx)
