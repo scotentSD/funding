@@ -14,11 +14,11 @@
 - [All of these together](files/Fund_2020_SPORT_Beta.pdf)
 
 Coming soon:
-- [Service Blueprint v0.1- TBC](#)
-- [Tube Map v0.1- TBC](#)
-- [Proto Personas- TBC](#)
-- [Use Cases- TBC](#)
-- [Change Log- TBC](#)
+- [Service Blueprint v0.1- TBC]
+- [Tube Map v0.1- TBC]
+- [Proto Personas- TBC]
+- [Use Cases- TBC]
+- [Change Log- TBC]
 
 ## Discovery (2020 and before)
 - [Timeline of Research](timeline/)
