@@ -14,8 +14,6 @@
 - [Research Activities Performed](files/FUND_BETA_RESEARCH_ACTIVITIES)
 - [All of these together](files/Fund_2020_SPORT_Beta.pdf)
 
-
-
 Coming soon:
 - [Service Blueprint v0.1- TBC](#)
 - [Tube Map v0.1- TBC](#)
@@ -33,4 +31,3 @@ Coming soon:
 
 ## Resources
 - [This page](https://scotentsd.github.io/funding/)
-
