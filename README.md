@@ -13,7 +13,7 @@
 - [Research Activities Performed](files/FUND_BETA_RESEARCH_ACTIVITIES)
 - [All of these together](files/Fund_2020_SPORT_Beta.pdf)
 
-Coming soon:
+**Coming soon:**
 - [Service Blueprint v0.1- TBC]
 - [Tube Map v0.1- TBC]
 - [Proto Personas- TBC]
