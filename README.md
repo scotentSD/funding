@@ -6,11 +6,11 @@
 - [Problem statements](files/FUND_BETA_PROBLEM.pdf)
 - [Goal Statements](files/FUND_BETA_GOAL.pdf)
 - [Assumptions](files/FUND_BETA_ASSUMPTIONS.pdf)
-- [Objectives](files/FUND_BETA_OBJECTIVES)
+- [Objectives](files/FUND_BETA_OBJECTIVES.pdf)
 - [Change Statements](files/FUND_BETA_CHANGE.pdf)
 - [Success Metrics](files/FUND_BETA_METRICS.pdf)
 - [Hypotheses](files/FUND_BETA_HYPOTHESES.pdf)
-- [Research Activities Performed](files/FUND_BETA_RESEARCH_ACTIVITIES)
+- [Research Activities Performed](files/FUND_BETA_RESEARCH_ACTIVITIES.pdf)
 - [All of these together](files/Fund_2020_SPORT_Beta.pdf)
 
 **Coming soon:**
