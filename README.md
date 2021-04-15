@@ -2,6 +2,7 @@
 ## Alpha & Beta (2020 / 2021)
 - [Timeline of Research](timeline/)
 - [Timeline of Research - Summary](timeline_summary/)
+- [Change Log- TBC]
 
 - [Problem statements](files/FUND_BETA_PROBLEM.pdf)
 - [Goal Statements](files/FUND_BETA_GOAL.pdf)
@@ -18,7 +19,7 @@
 - [Tube Map v0.1- TBC]
 - [Proto Personas- TBC]
 - [Use Cases- TBC]
-- [Change Log- TBC]
+- [Change Log- TBC](files/FUND_CHANGES.pdf)
 
 ## Discovery (2020 and before)
 - [Timeline of Research](timeline/)
