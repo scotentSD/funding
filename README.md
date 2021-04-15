@@ -13,7 +13,7 @@
 - [Hypotheses](files/FUND_BETA_HYPOTHESES.pdf)
 - [Research Activities Performed](files/FUND_BETA_RESEARCH_ACTIVITIES.pdf)
 - [All of these together](files/Fund_2020_SPORT_Beta.pdf)
-- - [Change Log- TBC](files/FUND_CHANGES.pdf)
+- [Change Log- TBC](files/FUND_CHANGES.pdf)
 
 
 **Coming soon:**
