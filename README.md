@@ -14,7 +14,7 @@
 - [Change Log](files/FUND_CHANGES.pdf)
 
 **Coming soon:**
-- [Service Blueprint v0.1- TBC]
+- [Service Blueprint v0.1- TBC](files/Funding_Blueprint.pdf)
 - [Tube Map v2.0](files/fund_v2.pdf)
 - [Proto Personas- TBC]
 - [Use Cases- TBC]
