@@ -2,8 +2,6 @@
 ## Alpha & Beta (2020 / 2021)
 - [Timeline of Research](timeline/)
 - [Timeline of Research - Summary](timeline_summary/)
-- [Change Log- TBC]
-
 - [Problem statements](files/FUND_BETA_PROBLEM.pdf)
 - [Goal Statements](files/FUND_BETA_GOAL.pdf)
 - [Assumptions](files/FUND_BETA_ASSUMPTIONS.pdf)
