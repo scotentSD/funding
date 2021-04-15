@@ -15,16 +15,19 @@
 - [User Needs - Customers & Staff](files/FUND_Userneeds.pdf)
 - [User Needs Detailed- Customers & Staff](files/FUND_UserNeeds_Detailed.pdf)
 
+
 **Coming soon:**
 - [Service Blueprint v0.1- TBC](files/Funding_Blueprint.pdf)
 - [Tube Map v2.0](files/fund_v2.pdf)
 - [Proto Personas- TBC]
 - [Use Cases- TBC]
 
+
 ## Discovery (2020 and before)
 - [Timeline of Research](timeline/)
 - [Timeline of Research - Summary](timeline_summary/)
 - [User Needs - High Level](files/FUND_user_needs_031120.pdf)
+
 
 ## Resources
 - [This page](https://scotentsd.github.io/funding/)
