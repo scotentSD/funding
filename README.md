@@ -11,7 +11,7 @@
 - [Hypotheses](files/FUND_BETA_HYPOTHESES.pdf)
 - [Research Activities Performed](files/FUND_BETA_RESEARCH_ACTIVITIES.pdf)
 - [All of these together](files/Fund_2020_SPORT_Beta.pdf)
-- [Change Log- TBC](files/FUND_CHANGES.pdf)
+- [Change Log](files/FUND_CHANGES.pdf)
 
 **Coming soon:**
 - [Service Blueprint v0.1- TBC]
@@ -24,9 +24,6 @@
 - [Timeline of Research](timeline/)
 - [Timeline of Research - Summary](timeline_summary/)
 - [User Needs - High Level](files/FUND_user_needs_031120.pdf)
-
-## Resources from past Funding Projects
-- [TBC](files/xxx.pdf)
 
 ## Resources
 - [This page](https://scotentsd.github.io/funding/)
