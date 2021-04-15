@@ -15,7 +15,7 @@
 
 **Coming soon:**
 - [Service Blueprint v0.1- TBC]
-- [Tube Map v0.1- TBC]
+- [Tube Map v2.0](files/funding/fund_v2.pdf)
 - [Proto Personas- TBC]
 - [Use Cases- TBC]
 
