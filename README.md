@@ -13,7 +13,7 @@
 - [All of these together](files/Fund_2020_SPORT_Beta.pdf)
 - [Change Log](files/FUND_CHANGES.pdf)
 - [User Needs - Customers & Staff](files/FUND_Userneeds.pdf)
-- [User Needs - Customers & Staff](files/FUND_UserNeeds_Detailed.pdf)
+- [User Needs Detailed- Customers & Staff](files/FUND_UserNeeds_Detailed.pdf)
 
 **Coming soon:**
 - [Service Blueprint v0.1- TBC](files/Funding_Blueprint.pdf)
