@@ -21,7 +21,6 @@
 - [Proto Personas- TBC]
 - [Use Cases- TBC]
 
-
 ## Discovery (2020 and before)
 - [Timeline of Research](timeline/)
 - [Timeline of Research - Summary](timeline_summary/)
