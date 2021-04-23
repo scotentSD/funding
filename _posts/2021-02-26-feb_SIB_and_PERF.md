@@ -33,9 +33,8 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 
 | Quote
 | ---
-| “On ‘browse files’: “It’s clear and is a good way of prompting me to make sure that all required evidence is contained in the various documents I upload.”
-”
-| “Clear concise with the best drag & drop box size and lay out”.”
+| - “On ‘browse files’: “It’s clear and is a good way of prompting me to make sure that all required evidence is contained in the various documents I upload.”
+| - “Clear concise with the best drag & drop box size and lay out”.”
 
 
 
