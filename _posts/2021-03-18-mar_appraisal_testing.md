@@ -26,14 +26,13 @@ return_url: "https://scotentsd.github.io/export/timeline/"
   - Version control Docs
   - Confusing or Helpful to the user
 - Additional Information (Only shows if you are asking for Additional Info)
-- Hoover up NEW INFORMATION THAT WAS NOT ACTUALLY A PART OF THE ORIGINAL QUESTION SET
+  - Hoover up NEW INFORMATION THAT WAS NOT ACTUALLY A PART OF THE ORIGINAL QUESTION SET
 - SUBMIT
-- Application Overview or Just go to Thankyou page
-- Notifications B Section >> Sign_In Generic 
-- 
+  - Application Overview or Just go to Thankyou page
+
+
+Notifications B Section >> Sign_In Generic  
 [https://4jd442.axshare.com/#id=pdee0y&p=notifications-b__sign_in&g=1[(https://4jd442.axshare.com/#id=pdee0y&p=notifications-b__sign_in&g=1)
-
-
 
 
 
