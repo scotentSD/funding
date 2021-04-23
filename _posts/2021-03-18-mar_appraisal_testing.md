@@ -35,7 +35,6 @@ Notifications B Section >> Sign_In Generic
 [https://4jd442.axshare.com/#id=pdee0y&p=notifications-b__sign_in&g=1[(https://4jd442.axshare.com/#id=pdee0y&p=notifications-b__sign_in&g=1)
 
 
-
 | Learning
 | ---
 | People don't read stuff they think is already completed
