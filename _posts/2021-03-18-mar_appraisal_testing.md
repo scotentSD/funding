@@ -20,20 +20,19 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 ## Focus
 - Do labels (Attention Needed etc...) show enough detail
 - Display or hide sections
-  - If NOTHING NEEDS ATTENTION.....SHOULD WE JUST HIDE IT
+    - If NOTHING NEEDS ATTENTION.....SHOULD WE JUST HIDE IT
 - Is Text Pattern clear enough (Appraisal comments etc...)
 - Application Evidence (Upload new file as an update post appraisal comments)
-  - Version control Docs
-  - Confusing or Helpful to the user
+    - Version control Docs
+    - Confusing or Helpful to the user
 - Additional Information (Only shows if you are asking for Additional Info)
-  - Hoover up NEW INFORMATION THAT WAS NOT ACTUALLY A PART OF THE ORIGINAL QUESTION SET
+    - Hoover up NEW INFORMATION THAT WAS NOT ACTUALLY A PART OF THE ORIGINAL QUESTION SET
 - SUBMIT
-  - Application Overview or Just go to Thankyou page
+    - Application Overview or Just go to Thankyou page
 
 
 Notifications B Section >> Sign_In Generic  
 [https://4jd442.axshare.com/#id=pdee0y&p=notifications-b__sign_in&g=1](https://4jd442.axshare.com/#id=pdee0y&p=notifications-b__sign_in&g=1)
-
 
 | Learning
 | ---
