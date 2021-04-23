@@ -32,7 +32,7 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 
 
 Notifications B Section >> Sign_In Generic  
-[https://4jd442.axshare.com/#id=pdee0y&p=notifications-b__sign_in&g=1[(https://4jd442.axshare.com/#id=pdee0y&p=notifications-b__sign_in&g=1)
+[https://4jd442.axshare.com/#id=pdee0y&p=notifications-b__sign_in&g=1](https://4jd442.axshare.com/#id=pdee0y&p=notifications-b__sign_in&g=1)
 
 
 | Learning
