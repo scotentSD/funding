@@ -18,37 +18,52 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 - 6 potential customers
 
 ## Focus
-- We tested the latest wireframe prototype of: applying for Green Jobs Funding
-- This gave a good Appraisal example to test
-- [https://4jd442.axshare.com](https://4jd442.axshare.com)
+- Do labels (Attention Needed etc...) show enough detail
+- Display or hide sections
+  - If NOTHING NEEDS ATTENTION.....SHOULD WE JUST HIDE IT
+- Is Text Pattern clear enough (Appraisal comments etc...)
+- Application Evidence (Upload new file as an update post appraisal comments)
+  - Version control Docs
+  - Confusing or Helpful to the user
+- Additional Information (Only shows if you are asking for Additional Info)
+- Hoover up NEW INFORMATION THAT WAS NOT ACTUALLY A PART OF THE ORIGINAL QUESTION SET
+- SUBMIT
+- Application Overview or Just go to Thankyou page
+- Notifications B Section >> Sign_In Generic 
+- 
+[https://4jd442.axshare.com/#id=pdee0y&p=notifications-b__sign_in&g=1[(https://4jd442.axshare.com/#id=pdee0y&p=notifications-b__sign_in&g=1)
+
+
 
 
 
 | Learning
 | ---
-| De Minimis is still an unhelpful term
-| De Minimis is not mentioned in the eligibility section, even though it is an “absolute requirement”
-| Customers needs to be told in advance, what information documents & evidence will be “needed to successfully complete the application”, to avoid unpleasant surprises
-| Private documents make people nervous about security and liability
-| Business Plan’s are referenced confusingly (Repeatedly and with/without a template).
+| 
+| 
+| 
+
+
+
 
 🧰 Recomendations 
 
 | Change
 | ---
-| Remove De Minimis from headings
-| Tell peopel what info & documents they will need, before starting the application
-| Strengthen language around WHY we are using private documents
-| Review language for continuity
+| 
+| 
+| 
 
 
-## 🎧 Quotesß
 
+## 🎧 Quotes
 | Quote
 | ---
-| “What if I want Email AND Phone”
-| "I already uploaded a Business Plan and”NOW” you are giving me a template? Confusing."
-| “If I am not a Public Company then I don’t might not want my information to be Public”.
+| 
+| 
+| 
+
+
 
 <!--more-->
 [2021_02_18_F2F_FUND_V2.pdf](../files/2021_02_18_F2F_FUND_V2.pdf)
