@@ -38,31 +38,16 @@ Notifications B Section >> Sign_In Generic
 
 | Learning
 | ---
-| 
-| 
-| 
-
-
-
-
-🧰 Recomendations 
-
-| Change
-| ---
-| 
-| 
-| 
-
-
-
-## 🎧 Quotes
-| Quote
-| ---
-| 
-| 
-| 
-
+| People don't read stuff they think is already completed
+| Pages are short and sweet :-)
+| The design system is now producing well functioning pages
+| Appraiser comments are noticed, but viewed as quite impersonal. 
+| Customers asked for a Name against Appraiser comments
+| Upload Evidence link was missed (Tertiary Link at bottom of page)
+| The reference Number raised confidence levels
+| The phone number raised confidence levels
+| SLA's were expected, but missing
 
 
 <!--more-->
-[2021_02_18_F2F_FUND_V2.pdf](../files/2021_02_18_F2F_FUND_V2.pdf)
+
