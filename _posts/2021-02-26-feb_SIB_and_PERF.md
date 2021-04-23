@@ -11,7 +11,6 @@ type_of_event:              # add the type of event if you want it displayed add
 return_url: "https://scotentsd.github.io/export/timeline/"
 ---
 
-
 ## Phase
     Discovery
 
