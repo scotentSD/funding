@@ -47,7 +47,5 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 | “xxx”
 | “xxx”
 
-
-
 <!--more-->
 [2021_02_18_F2F_FUND_V2.pdf](../files/2021_02_18_F2F_FUND_V2.pdf)
