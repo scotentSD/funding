@@ -12,7 +12,7 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 ---
 
 ## Phase
-    Discovery
+    Beta
 
 ## Audience
 - 6 potential customers
