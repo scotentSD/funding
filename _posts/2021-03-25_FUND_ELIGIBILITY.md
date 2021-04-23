@@ -1,6 +1,6 @@
 ---
 layout: post                # Don't change this from "post"
-title: Eligibility Research        # Title to show on the page
+title: Eligibility Messaging Research        # Title to show on the page
 type: lab                   # Chose from: lab, online, a11y, other, partner
 phase: beta                 # chose from discovery, alpha, beta, live
 initials: mk                # initials of person who did/uploaded the research
@@ -11,62 +11,25 @@ type_of_event:              # add the type of event if you want it displayed add
 return_url: "https://scotentsd.github.io/export/timeline/"
 ---
 
-## Phase
-    Discovery
-
-## Audience
-- xxx
-
-## We were focusing on 
-- xxx
-
-## What we discovered
-- xxx
-
-<!--more-->
-
 ## Phase 
     Beta
 
 ## Audience
-- Funding Project Team, Stakeholders, Product Owner & Customers
+- 9 potential customers
 
-## Focus
-- To test 
-- To establish 
-- To ensure users found the process:
-   - Intuitive
-   - Easy to understand
-   - Clear
+## We were focusing on 
+- Eligibility messages
 
-## What we discovered 
+## What we discovered
+- Bold, Clear and Obvious, win the day. 
+- Positive language also tested well
+
 
 | Learning
 | ---
-| 💡**lightbulb moment**
-| xxx
-| zzz
-
-🧰 ## We Changed  
-
-| Change
-| ---
-| 💡**lightbulb moment**
-| xxx
-| zzz
-
-
-## 🎧 Quotesß
-
-| Quote
-| ---
-| “xxx”
-| “xxx”
-| “xxx”
-
-
+| Go with V4. These interstitial pages put users at ease.
+| This was the first or second choice of all participants
+| Simplicity is good
 
 <!--more-->
-
-
 [2021_03_25_Playback_Eligibility_v2.pdf](2021_03_25_Playback_Eligibility_v2.pdf)
