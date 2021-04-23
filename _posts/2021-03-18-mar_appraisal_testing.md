@@ -22,6 +22,8 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 - This gave a good Appraisal example to test
 - [https://4jd442.axshare.com](https://4jd442.axshare.com)
 
+
+
 | Learning
 | ---
 | De Minimis is still an unhelpful term
@@ -30,22 +32,23 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 | Private documents make people nervous about security and liability
 | Business Plan’s are referenced confusingly (Repeatedly and with/without a template).
 
-🧰 ## Recomendations 
+🧰 Recomendations 
 
 | Change
 | ---
-| “What if I want Email AND Phone”
-| "I already uploaded a Business Plan and”NOW” you are giving me a template? Confusing."
-| “If I am not a Public Company then I don’t might not want my information to be Public”.
+| Remove De Minimis from headings
+| Tell peopel what info & documents they will need, before starting the application
+| Strengthen language around WHY we are using private documents
+| Review language for continuity
 
 
 ## 🎧 Quotesß
 
 | Quote
 | ---
-| “xxx”
-| “xxx”
-| “xxx”
+| “What if I want Email AND Phone”
+| "I already uploaded a Business Plan and”NOW” you are giving me a template? Confusing."
+| “If I am not a Public Company then I don’t might not want my information to be Public”.
 
 <!--more-->
 [2021_02_18_F2F_FUND_V2.pdf](../files/2021_02_18_F2F_FUND_V2.pdf)
