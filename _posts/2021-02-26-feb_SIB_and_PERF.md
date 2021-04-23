@@ -29,7 +29,7 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 
 
 
-## 🎧 Quotesß
+## 🎧 Quotes
 
 | Quote
 | ---
