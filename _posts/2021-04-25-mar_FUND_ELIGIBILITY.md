@@ -4,7 +4,7 @@ title: Eligibility Messaging Research        # Title to show on the page
 type: lab                   # Chose from: lab, online, a11y, other, partner
 phase: beta                 # chose from discovery, alpha, beta, live
 initials: mk                # initials of person who did/uploaded the research
-display_date: 25th March 2021 # Date to show on the page      
+display_date: 25th March to 22nd April 2021 # Date to show on the page      
 type_of_event:              # add the type of event if you want it displayed added to the heading when the post if clicked on
                             # Lab Testing, Partner co-creation and co-design, Accessibility, Online research and testing, Events, F2F and testing
                             # or leave empty if not needed
