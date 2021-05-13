@@ -70,6 +70,9 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 |  “It feels like there is a massive gap there” (Eligibility Response)
 |  “I would leave the website at this point, and go make a plan based on this page” and then come back with my Word Doc (About your Project)
 |  “I have completed my Eligibility and I have no idea if I am eligible?”
+
+
+[2021_05_11_FUND_Green_Jobs_Playback.pdf](../files/2021_05_11_FUND_Green_Jobs_Playback.pdf)
 <!--more-->
 
 
