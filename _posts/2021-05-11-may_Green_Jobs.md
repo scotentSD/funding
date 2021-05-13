@@ -39,8 +39,8 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 |---
 |💡**It is not obvious that it is SAVING as you go.** (Do you have to submit each section or does it save each field) 
 |**Fair Work** is not well understood by customers. 
-|  It feels like an absolute barrier to some
-|  It is not understood WHY we are asking for it
+| - It feels like an absolute barrier to some
+| - It is not understood WHY we are asking for it
 |Put all the things that would disqualify a user Up Front (Or make it feel that way)
 |**RETAIL** on the banned list is too ambiguous.
 |**Green Jobs** is not just about **Jobs** (a bit...)
