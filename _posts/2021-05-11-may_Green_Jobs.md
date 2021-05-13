@@ -19,10 +19,13 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 
 ## We were focusing on 
 ### Primary questions
+
 - Does the Application Journey have any major issues?
 - How long will it take users?
 - How hard will they find it (Evidence etc.…)
+- 
 ### Secondary Questions
+
 - How do people think they can gather the evidence?
    - is it something that they have available?
    - would they know where to go and source the information?
@@ -31,6 +34,7 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 
 
 ## What we discovered
+
 - xxx
 
 
