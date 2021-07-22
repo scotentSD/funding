@@ -65,13 +65,13 @@ return_url: "https://scotentsd.github.io/export/timeline/"
 | Quote
 | ---
 |  “It isn’t very well explained (Service Description)
-|  “Icouldreadthispageandeasilyapplythis” (Service Description)
+|  “I could read this page and easily apply this” (Service Description)
 |  “I would have been off making a cup of tea by now" (About your project)
-|  "None of it seems unnecessary -there's just a lot of it"
+|  "None of it seems unnecessary - there's just a lot of it"
 |  "I would be starting to zone out and think nah, this isn't for me" (Fair Work section)
 |  "This is getting a bit like a riddle" (Impact of funding section)
 |  “That wall of words is off-putting. I’d prefer to see it broken down a wee bit” (dyslexic)
-|  “Overallthat’s quite a straightforward application”
+|  “Overall that’s quite a straightforward application”
 |  “It feels like there is a massive gap there” (Eligibility Response)
 |  “I would leave the website at this point, and go make a plan based on this page” and then come back with my Word Doc (About your Project)
 |  “I have completed my Eligibility and I have no idea if I am eligible?”
