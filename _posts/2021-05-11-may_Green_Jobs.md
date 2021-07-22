@@ -8,7 +8,7 @@ display_date: 11th May 2021 # Date to show on the page
 type_of_event:      Lab Testing        # add the type of event if you want it displayed added to the heading when the post if clicked on
                             # Lab Testing, Partner co-creation and co-design, Accessibility, Online research and testing, Events, F2F and testing
                             # or leave empty if not needed
-return_url: "https://scotentsd.github.io/export/timeline/"
+return_url: "https://scotentsd.github.io/funding/timeline/"
 ---
 
 ## Phase
