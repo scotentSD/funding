@@ -50,11 +50,9 @@ return_url: "https://scotentsd.github.io/funding/timeline/"
 
 ## 🎧 Some quotes
 
-| Quote
-| ---
-|  "I can’t be bothered filling this form, I know I have a good project but can’t be bothered … "
-|  "Is my business eligible should be first up .. why waste my time"
-| "Can I print a pdf of this page? Reading on screen for me is difficult"
-| "Templates are always good and we get all good info from customers"
+>  "I can’t be bothered filling this form, I know I have a good project but can’t be bothered … "
+>  "Is my business eligible should be first up .. why waste my time"
+> "Can I print a pdf of this page? Reading on screen for me is difficult"
+> "Templates are always good and we get all good info from customers"
 
 <!--more-->
