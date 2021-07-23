@@ -29,10 +29,10 @@ return_url: "https://scotentsd.github.io/funding/timeline/"
 - Is it clear that action is needed for the contact offer? 
 - Layout 
 - Is it clear whats expected? 
-- Can people accept or reject offer? 
-- Congratulations screen – can the go back to  the dashboard from here?
+- Can people accept or reject offer?
+- Congratulations screen – can they go back to the dashboard from here?
 
-- ## What we discovered
+## What we discovered
 **Does the dashboard have any major issues?**
 
 - It was clear where action was needed  
@@ -45,8 +45,6 @@ return_url: "https://scotentsd.github.io/funding/timeline/"
 |---
 |Expected to see company name not SE name  
 |Allow applicants to print off the contract offer and a summary of the application for their records 
-
-<!--more-->
 
 ## 🎧 Some quotes
 
@@ -103,4 +101,4 @@ return_url: "https://scotentsd.github.io/funding/timeline/"
 | "Is there a CO2 calculator / spreadsheet?"
 | "All pretty straightforward"
 
-
+<!--more-->
