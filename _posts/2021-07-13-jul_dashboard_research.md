@@ -1,4 +1,3 @@
-  
 ---
 layout: post                # Don't change this from "post"
 title: Dasboard Research         # Title to show on the page
