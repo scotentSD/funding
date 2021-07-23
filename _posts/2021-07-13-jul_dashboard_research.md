@@ -46,6 +46,7 @@ return_url: "https://scotentsd.github.io/funding/timeline/"
 |Expected to see company name not SE name  
 |Allow applicants to print off the contract offer and a summary of the application for their records 
 
+<!--more-->
 
 ## 🎧 Some quotes
 
@@ -98,8 +99,8 @@ return_url: "https://scotentsd.github.io/funding/timeline/"
 | "It's really good to see this hopefully this will work for my clients"
 | "It's important that I am in my record so show my company name / individual name on the screen or maybe my company logo etc"
 | "What do you mean by cost - is it invoice total cost or 50% cost of the total?"
-| "Explain what additional evidence means, give examples"0
+| "Explain what additional evidence means, give examples"
 | "Is there a CO2 calculator / spreadsheet?"
 | "All pretty straightforward"
 
-<!--more-->
+
