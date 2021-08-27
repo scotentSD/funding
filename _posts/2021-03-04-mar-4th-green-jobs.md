@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FUND Application wireframe (green jobs) March
+tltitle: FUND Application wireframe (green jobs) March
 type: lab
 phase: alpha
 initials: mk
